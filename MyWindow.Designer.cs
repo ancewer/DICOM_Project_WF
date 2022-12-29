@@ -232,7 +232,7 @@ namespace DVH_Project_WF
             this.textBox_ExportByPatientID.Name = "textBox_ExportByPatientID";
             this.textBox_ExportByPatientID.Size = new System.Drawing.Size(152, 20);
             this.textBox_ExportByPatientID.TabIndex = 9;
-            this.textBox_ExportByPatientID.Text = "1310589c,1310682c";
+            this.textBox_ExportByPatientID.Text = "000,111";
             // 
             // checkBox_DICOMFilterByPatientID
             // 
